@@ -9,6 +9,8 @@ re
 
 My IDE was VS.
 
+The file that you should run is located in the spiders folder, it is called main_part.py. All other files are there for settings. 
+
 								**Important**
 
 Your terminal directory should be the same as the location of both python files (main_part.py and spider_scrapy_for_movies.py).
