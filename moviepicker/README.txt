@@ -8,6 +8,8 @@ re
 
 My IDE was VS.
 
+To run the program navitage to the spiders folder, there run the file main_part.py. All other files are there for settings.
+
 								**Important**
 
 Your terminal directory should be the same as the location of both python files (main_part.py and spider_scrapy_for_movies.py).
